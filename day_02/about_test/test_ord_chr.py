@@ -1,0 +1,10 @@
+"""
+ord将字符转化成Unicode整数值
+推荐了解ASCII码：美国标准信息交换码
+chr将整数转化成Unicode字符：万国码
+ASCII共128个字符，0~127
+万国码共含65535个文字，从19968至40869
+"""
+print(ord("a"))
+print(chr(23380))
+print(ord(chr(19)))
