@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 .streamlit/secrets.toml
+chroma_db/
+week03/chroma_db/
+week03/settings.json
