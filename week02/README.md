@@ -11,6 +11,10 @@ DeepSeek 驱动的在线聊天应用，支持文件上传、个性化外观。
 - 设置持久化（settings.json）
 - DeepSeek Reasoner 思考过程展示
 
+## 演示
+
+![demo](demo.gif)
+
 ## 运行
 
 ```bash

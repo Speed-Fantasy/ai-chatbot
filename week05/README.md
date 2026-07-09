@@ -17,6 +17,10 @@
 Streamlit + DeepSeek API + PyPDF2 + python-docx
 ```
 
+## 演示
+
+![demo](demo.gif)
+
 ## 运行
 
 ```bash

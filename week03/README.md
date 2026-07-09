@@ -16,6 +16,10 @@
 Streamlit + DeepSeek API + ChromaDB + sentence-transformers + PyPDF2
 ```
 
+## 演示
+
+![demo](demo.gif)
+
 ## 运行
 
 ```bash

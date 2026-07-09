@@ -15,6 +15,10 @@
 - Agent Loop = while 循环 + API 调用 + 工具执行
 - 安全沙箱：Python 代码执行带 AST 检查 + 黑名单
 
+## 演示
+
+![demo](demo.gif)
+
 ## 运行
 
 ```bash
