@@ -11,11 +11,12 @@
 | Week 3 | RAG 文档问答 | ChromaDB + Embedding | 向量数据库、语义检索、文档切片 |
 | Week 4 | AI Agent | Tool Calling + Agent Loop | 工具调用、自主决策、多步执行 |
 | Week 5 | AI 简历优化器 | Streamlit + DeepSeek | 完整产品、多模块、持久化 |
+| Week 6 | 文档处理 Agent | RAG + Agent + ChromaDB | 文档检索、自主工具调用、综合处理 |
 
 ## 技术栈
 
 ```
-Python / Streamlit / DeepSeek API / ChromaDB / sentence-transformers / PyPDF2
+Python / Streamlit / DeepSeek API / ChromaDB / sentence-transformers / PyPDF2 / python-docx
 ```
 
 ## 运行
