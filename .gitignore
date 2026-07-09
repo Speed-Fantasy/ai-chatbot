@@ -6,3 +6,6 @@ __pycache__/
 chroma_db/
 week03/chroma_db/
 week03/settings.json
+week03/data.json
+week05/settings.json
+week05/data.json
