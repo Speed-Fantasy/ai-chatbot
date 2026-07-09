@@ -145,15 +145,11 @@
 
 ## 当前进度
 
-- [ ] 第一周 Day 1-2：Python 最小必要知识（`week01/learn.py`）
-- [ ] 第一周 Day 3：注册 API + 第一个调用
-- [ ] 第一周 Day 4-5：命令行聊天
-- [ ] 第一周 Day 6：流式输出
-- [ ] 第一周 Day 7：GitHub + README
-- [ ] 第二周：Streamlit + 部署
-- [ ] 第三周：RAG 文档问答
-- [ ] 第四周：Agent
-- [ ] 第五周：完整产品
-- [ ] 第六周：作品集打磨
-- [ ] 第七周：深入方向 + 投实习
-- [ ] 第八周：查漏补缺
+- [x] Week 01：Python基础 + DeepSeek聊天机器人
+- [x] Week 02：Streamlit聊天网页 + 文件上传 + 外观个性化
+- [x] Week 03：RAG文档问答系统
+- [x] Week 04：Agent系统（手写Agent循环 + 工具调用）
+- [x] Week 05：AI简历优化器
+- [x] Week 06：文档处理Agent（RAG + Agent合体）
+- [ ] Week 07：作品集打磨 — 补README、录GIF
+- [ ] Week 08：投实习 + 面试准备
